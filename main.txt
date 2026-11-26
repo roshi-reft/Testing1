@@ -1,1 +1,1 @@
-maic_number = 49
+maic_number = 62
